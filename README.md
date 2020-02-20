@@ -1,6 +1,6 @@
 # Share Less
 ![GitHub](https://img.shields.io/github/license/navchandar/Share-Less?color=Blue)
-[![HitCount](http://hits.dwyl.com/navchandar/Share-Less.svg)](http://hits.dwyl.com/navchandar/Share-Less)
+[![HitCount](http://hits.dwyl.com/navchandar/Share-Less.svg)](http://hits.dwyl.com/navchandar/Share-Less)   [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/navchandar/Share-Less/issues)
 [![Twitter Follow navchandar][1.1]][1]
 
 ## URL tracking remover
@@ -8,7 +8,8 @@
     - Urchin Tracking Module (UTM) parameters
     - Google click identifiers (GCLID)
     - Facebook click identifiers (FBCLID)
-    - Amazon share ID trakers
+    - Amazon share ID trackers
+    - Instagram share ID trackers
 
 
 ## Installation
