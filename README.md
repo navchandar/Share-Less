@@ -1,7 +1,9 @@
 # Share Less
 ![GitHub](https://img.shields.io/github/license/navchandar/Share-Less?color=Blue)
-[![HitCount](http://hits.dwyl.com/navchandar/Share-Less.svg)](http://hits.dwyl.com/navchandar/Share-Less)   [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/navchandar/Share-Less/issues)
+[![HitCount](http://hits.dwyl.com/navchandar/Share-Less.svg)](http://hits.dwyl.com/navchandar/Share-Less) [![Maintainability](https://api.codeclimate.com/v1/badges/1307b8c99abc8f4cbf28/maintainability)](https://codeclimate.com/github/navchandar/Share-Less/maintainability)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/navchandar/Share-Less/issues) 
 [![Twitter Follow navchandar][1.1]][1]
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T617N9I)
 
 ## URL tracking remover
  - Removes tracking from URLs like 
@@ -30,8 +32,6 @@ Contributions are always welcome!
 | --------- | --------- | --------- | --------- | --------- |
 | last 2 versions | last 10 versions| last 10 versions| last 2 versions| last 5 versions
 
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T617N9I)
 
 [1.1]: http://i.imgur.com/wWzX9uB.png 
 [1]: http://www.twitter.com/navchandar
