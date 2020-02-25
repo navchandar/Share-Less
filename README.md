@@ -18,7 +18,7 @@
 
 * If you are new to userscripts/Greasemonkey/Tampermonkey, Checkout this [getting started guide](https://github.com/OpenUserJs/OpenUserJS.org/wiki/Userscript-Beginners-HOWTO).
 * Install [Tampermonkey](https://tampermonkey.net/)/[Violentmonkey](https://violentmonkey.github.io/) extension for your device.
-* Install this [userscript](https://github.com/navchandar/Share-Less/raw/master/userscript.user.js).
+* Install this [userscript](https://github.com/navchandar/Share-Less/raw/master/Userscript.user.js).
 * Lessen online tracking and click analytics to safeguard your privacy.
 
 ## Contribute
